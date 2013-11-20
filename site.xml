@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/jp.af.amateras.htmleditor.feature_3.0.0.jar" id="jp.af.amateras.htmleditor.feature" version="3.0.0"/>
+</site>
