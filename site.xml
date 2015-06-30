@@ -3,5 +3,9 @@
    <feature url="features/jp.af.amateras.htmleditor.feature_3.0.0.jar" id="jp.af.amateras.htmleditor.feature" version="3.0.0">
       <category name="htmleditor"/>
    </feature>
+   <feature url="features/net.java.amateras.modeler_1.0.0.201507010120.jar" id="net.java.amateras.modeler" version="1.0.0.201507010120">
+      <category name="modeler"/>
+   </feature>
    <category-def name="htmleditor" label="Amateras HTML Editor"/>
+   <category-def name="modeler" label="Amateras Modeler"/>
 </site>
