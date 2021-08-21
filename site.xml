@@ -12,6 +12,9 @@
    <feature url="features/net.java.amateras.modeler_2.0.0.202010180432.jar" id="net.java.amateras.modeler" version="2.0.0.202010180432">
       <category name="modeler"/>
    </feature>
+   <feature url="features/net.java.amateras.modeler_2.1.0.202108220151.jar" id="net.java.amateras.modeler" version="2.1.0.202108220151">
+      <category name="modeler"/>
+   </feature>
    <category-def name="htmleditor" label="Amateras HTML Editor"/>
    <category-def name="modeler" label="Amateras Modeler"/>
 </site>
